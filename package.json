@@ -27,7 +27,7 @@
     "query-string": "^9.0.0",
     "react": "^18",
     "react-dom": "^18",
-    "shadcn-ui": "^0.8.0",
+    "shadcn-ui": "^0.2.3",
     "svix": "^1.25.0",
     "tailwind-merge": "^2.4.0",
     "tailwindcss-animate": "^1.0.7",
