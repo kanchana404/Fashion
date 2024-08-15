@@ -13,6 +13,7 @@ export const connectToDatabase = async () => {
     dbName: 'forum',
     bufferCommands: false,
   })
+console.log("connected to db");
 
   cached.conn = await cached.promise;
 
